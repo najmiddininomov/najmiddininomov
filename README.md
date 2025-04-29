@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Najmiddin!
 
-<!--
-**najmiddininomov/najmiddininomov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm currently working on:
+- A portfolio website (about my hometown)
+- An online shop simulator in JavaScript
 
-Here are some ideas to get you started:
+📚 Currently learning:
+- JavaScript
+- Front-end development (HTML, CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Looking to collaborate on:
+- Projects with others who are eager to learn
+
+📫 How to reach me:
+- Telegram: @Najmiddin_inomov
+- Email: Inomovnajmiddin737@gmail.com
+
+😄 Fun fact:
+- My favorite color is green 🌿
